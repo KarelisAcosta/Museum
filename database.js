@@ -18536,7 +18536,7 @@ export const artworks = [
     has_not_been_viewed_much: true,
     boost_rank: null,
     date_start: null,
-    date_end: null,
+    date_end: 1980,
     date_display: null,
     date_qualifier_title: "",
     date_qualifier_id: null,
